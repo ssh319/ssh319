@@ -1,11 +1,11 @@
-# 👋, I'm a Full-Stack Developer
+# 👋
 
 I build full-stack applications and automation tools using JavaScript and Python.  
 Focused on backend systems, APIs, and real-time features.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Build REST APIs with Node.js & Express  
 - Develop React frontends  
@@ -50,7 +50,7 @@ Full-Stack application with real-time messaging, notifications, and user authent
 
 ---
 
-## 💡 What I’m Focused On
+## What I’m Focused On
 
 Currently improving:
 - backend architecture  
