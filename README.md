@@ -59,10 +59,3 @@ Currently improving:
 - real-world projects  
 
 ---
-
-## 📫 Contact
-
-- GitHub: https://github.com/ssh319
-- LinkedIn: https://www.linkedin.com/in/ssh319/
-
----
